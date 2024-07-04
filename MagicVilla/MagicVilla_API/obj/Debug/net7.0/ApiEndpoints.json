@@ -9,7 +9,7 @@
     "Parameters": [],
     "ReturnTypes": [
       {
-        "Type": "System.Collections.Generic.IEnumerable\u00601[[MagicVilla_API.Modelos.Dto.VillaDto, MagicVilla_API, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "Type": "MagicVilla_API.Modelos.APIResponse",
         "MediaTypes": [
           "text/plain",
           "application/json",
@@ -35,7 +35,7 @@
     ],
     "ReturnTypes": [
       {
-        "Type": "MagicVilla_API.Modelos.Dto.VillaDto",
+        "Type": "MagicVilla_API.Modelos.APIResponse",
         "MediaTypes": [
           "text/plain",
           "application/json",
@@ -187,7 +187,7 @@
     ],
     "ReturnTypes": [
       {
-        "Type": "MagicVilla_API.Modelos.Dto.VillaDto",
+        "Type": "MagicVilla_API.Modelos.APIResponse",
         "MediaTypes": [
           "text/plain",
           "application/json",
