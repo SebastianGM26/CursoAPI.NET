@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "Nuevo perfil",
+    "Projects": [
+      {
+        "Name": "MagicVilla_API\\MagicVilla_API.csproj",
+        "Action": "Start"
+      },
+      {
+        "Name": "MagicVilla_Web\\MagicVilla_Web.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
