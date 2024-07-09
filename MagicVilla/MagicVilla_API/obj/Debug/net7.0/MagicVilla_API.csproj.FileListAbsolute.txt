@@ -81,3 +81,4 @@ C:\Users\sebastian.guatemala\Documents\CursoAPI\MagicVilla\MagicVilla_API\bin\De
 C:\Users\sebastian.guatemala\Documents\CursoAPI\MagicVilla\MagicVilla_API\obj\Debug\net7.0\MagicVilla_API.sourcelink.json
 C:\Users\sebastian.guatemala\Documents\CursoAPI\MagicVilla\MagicVilla_API\bin\Debug\net7.0\AutoMapper.dll
 C:\Users\sebastian.guatemala\Documents\CursoAPI\MagicVilla\MagicVilla_API\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\sebastian.guatemala\Documents\CursoAPI\MagicVilla\MagicVilla_API\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
