@@ -2,7 +2,7 @@
   {
     "ContainingType": "MagicVilla_API.Controllers.NumeroVillaController",
     "Method": "GetNumeroVillas",
-    "RelativePath": "api/NumeroVilla",
+    "RelativePath": "api/v1/NumeroVilla",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
@@ -22,7 +22,7 @@
   {
     "ContainingType": "MagicVilla_API.Controllers.NumeroVillaController",
     "Method": "CrearNumeroVilla",
-    "RelativePath": "api/NumeroVilla",
+    "RelativePath": "api/v1/NumeroVilla",
     "HttpMethod": "POST",
     "IsController": true,
     "Order": 0,
@@ -62,7 +62,7 @@
   {
     "ContainingType": "MagicVilla_API.Controllers.NumeroVillaController",
     "Method": "GetNumeroVilla",
-    "RelativePath": "api/NumeroVilla/{id}",
+    "RelativePath": "api/v1/NumeroVilla/{id}",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
@@ -106,7 +106,7 @@
   {
     "ContainingType": "MagicVilla_API.Controllers.NumeroVillaController",
     "Method": "DeleteNumeroVilla",
-    "RelativePath": "api/NumeroVilla/{id}",
+    "RelativePath": "api/v1/NumeroVilla/{id}",
     "HttpMethod": "DELETE",
     "IsController": true,
     "Order": 0,
@@ -146,7 +146,7 @@
   {
     "ContainingType": "MagicVilla_API.Controllers.NumeroVillaController",
     "Method": "UpdateNumeroVilla",
-    "RelativePath": "api/NumeroVilla/{id}",
+    "RelativePath": "api/v1/NumeroVilla/{id}",
     "HttpMethod": "PUT",
     "IsController": true,
     "Order": 0,
@@ -182,7 +182,7 @@
   {
     "ContainingType": "MagicVilla_API.Controllers.UsuarioController",
     "Method": "Login",
-    "RelativePath": "api/Usuario/login",
+    "RelativePath": "api/v1/Usuario/login",
     "HttpMethod": "POST",
     "IsController": true,
     "Order": 0,
@@ -198,7 +198,7 @@
   {
     "ContainingType": "MagicVilla_API.Controllers.UsuarioController",
     "Method": "Registrar",
-    "RelativePath": "api/Usuario/registrar",
+    "RelativePath": "api/v1/Usuario/registrar",
     "HttpMethod": "POST",
     "IsController": true,
     "Order": 0,
@@ -214,7 +214,7 @@
   {
     "ContainingType": "MagicVilla_API.Controllers.VillaController",
     "Method": "GetVillas",
-    "RelativePath": "api/Villa",
+    "RelativePath": "api/v1/Villa",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
@@ -234,7 +234,7 @@
   {
     "ContainingType": "MagicVilla_API.Controllers.VillaController",
     "Method": "CrearVilla",
-    "RelativePath": "api/Villa",
+    "RelativePath": "api/v1/Villa",
     "HttpMethod": "POST",
     "IsController": true,
     "Order": 0,
@@ -274,7 +274,7 @@
   {
     "ContainingType": "MagicVilla_API.Controllers.VillaController",
     "Method": "GetVilla",
-    "RelativePath": "api/Villa/{id}",
+    "RelativePath": "api/v1/Villa/{id}",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
@@ -318,7 +318,7 @@
   {
     "ContainingType": "MagicVilla_API.Controllers.VillaController",
     "Method": "DeleteVilla",
-    "RelativePath": "api/Villa/{id}",
+    "RelativePath": "api/v1/Villa/{id}",
     "HttpMethod": "DELETE",
     "IsController": true,
     "Order": 0,
@@ -358,7 +358,7 @@
   {
     "ContainingType": "MagicVilla_API.Controllers.VillaController",
     "Method": "UpdateVilla",
-    "RelativePath": "api/Villa/{id}",
+    "RelativePath": "api/v1/Villa/{id}",
     "HttpMethod": "PUT",
     "IsController": true,
     "Order": 0,
@@ -394,7 +394,7 @@
   {
     "ContainingType": "MagicVilla_API.Controllers.VillaController",
     "Method": "UpdatePartialVilla",
-    "RelativePath": "api/Villa/{id}",
+    "RelativePath": "api/v1/Villa/{id}",
     "HttpMethod": "PATCH",
     "IsController": true,
     "Order": 0,

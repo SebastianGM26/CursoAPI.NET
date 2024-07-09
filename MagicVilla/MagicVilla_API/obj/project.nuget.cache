@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "md4xxkrrZ5rVdSy8RR2xOIiZmXoq/DQXxCBsT1iuFLTWJaToenbXmuO0GPyOlLY+8hd67LVTdr/3HDhINdEmRQ==",
+  "dgSpecHash": "i2ciED/ReL4u9HnXoUkwg2bMsXmHH5Mr4aQrSQwN6EyEd6NpBPYTgX2P7MrSymS5foUoIXWX0f/7su+X54JbkA==",
   "success": true,
   "projectFilePath": "C:\\Users\\sebastian.guatemala\\Documents\\CursoAPI\\MagicVilla\\MagicVilla_API\\MagicVilla_API.csproj",
   "expectedPackageFiles": [
@@ -12,6 +12,8 @@
     "C:\\Users\\sebastian.guatemala\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\7.0.20\\microsoft.aspnetcore.authentication.jwtbearer.7.0.20.nupkg.sha512",
     "C:\\Users\\sebastian.guatemala\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\7.0.20\\microsoft.aspnetcore.jsonpatch.7.0.20.nupkg.sha512",
     "C:\\Users\\sebastian.guatemala\\.nuget\\packages\\microsoft.aspnetcore.mvc.newtonsoftjson\\7.0.20\\microsoft.aspnetcore.mvc.newtonsoftjson.7.0.20.nupkg.sha512",
+    "C:\\Users\\sebastian.guatemala\\.nuget\\packages\\microsoft.aspnetcore.mvc.versioning\\5.0.0\\microsoft.aspnetcore.mvc.versioning.5.0.0.nupkg.sha512",
+    "C:\\Users\\sebastian.guatemala\\.nuget\\packages\\microsoft.aspnetcore.mvc.versioning.apiexplorer\\5.0.0\\microsoft.aspnetcore.mvc.versioning.apiexplorer.5.0.0.nupkg.sha512",
     "C:\\Users\\sebastian.guatemala\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.15\\microsoft.aspnetcore.openapi.7.0.15.nupkg.sha512",
     "C:\\Users\\sebastian.guatemala\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\sebastian.guatemala\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

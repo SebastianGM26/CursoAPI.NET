@@ -12,8 +12,9 @@ using System.Net;
 
 namespace MagicVilla_API.Controllers
 {
-    [Route("api/[controller]")]
+    [Route("api/v{version:apiVersion}/[controller]")]
     [ApiController]
+    [ApiVersionNeutral]
     public class NumeroVillaController : ControllerBase
     {
 
@@ -32,6 +33,7 @@ namespace MagicVilla_API.Controllers
             _response = new();
         }
 
+        // Definir a que versión de api pertenece el endpoint  [MapToApiVersion("1.0")]
         [HttpGet]
         [Authorize]
         [ProducesResponseType(StatusCodes.Status200OK)]
